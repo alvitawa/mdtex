@@ -1,0 +1,10 @@
+Usage: mdtex [file.md] [name] [options]
+
+Markdown file will be moved to the project directory.
+
+# Convert markdown file to latex project in a new directory
+mdtex source.md project_name
+
+# Create an empty tex file with the template in the current directory
+mdtex name -d . -n
+

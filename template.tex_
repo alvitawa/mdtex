@@ -1,0 +1,13 @@
+\documentclass{article}
+\usepackage[hybrid]{markdown}
+
+$TITLE
+$AUTHOR
+
+\begin{document}
+
+$MAKETITLE
+
+$MARKDOWN
+
+\end{document}
